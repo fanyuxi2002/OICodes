@@ -1,3 +1,6 @@
+//by FYX
+//https://fanyuxi.xyz/ti-jie-poj1652/
+
 #include<cstdio>
 #include<cstring>
 using namespace std;
